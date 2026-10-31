@@ -2,7 +2,7 @@
 
 Projeto final da disciplina **Aprendizado de Máquina Supervisionado** — MBA em Ciência de Dados, UNIFOR (Prof. Caio Ponte).
 
-**Integrantes:** _(preencher nomes do grupo)_
+**Integrantes:** Francisco Thiago Oliveira de Sousa, 	Marcia Maria dos Santos Castro e  Nathassja Luana da Silva Gomes Menezes
 **Vídeo de apresentação:** _(colar o link do YouTube)_
 
 ## Objetivo
