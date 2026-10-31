@@ -2,9 +2,9 @@
 
 Projeto final da disciplina **Aprendizado de Máquina Supervisionado** — MBA em Ciência de Dados, UNIFOR (Prof. Caio Ponte).
 
-**Integrantes:** Francisco Thiago Oliveira de Sousa, 	Marcia Maria dos Santos Castro e  Nathassja Luana da Silva Gomes Menezes
+**Integrantes:** Francisco Thiago Oliveira de Sousa, Marcia Maria dos Santos Castro e Nathassja Luana da Silva Gomes Menezes
 
-**Vídeo de apresentação:**[ _(colar o link do YouTube)_](https://youtu.be/5G74tHXkk4g)
+**Vídeo de apresentação:** [Assista no YouTube](https://youtu.be/5G74tHXkk4g)
 
 ## Objetivo
 Prever o **valor mediano das casas** (`median_house_value`) de regiões da Califórnia a partir de características como renda, localização, idade e tamanho dos domicílios. É um problema de **regressão supervisionada**.
